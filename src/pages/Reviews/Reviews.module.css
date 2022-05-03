@@ -1,0 +1,9 @@
+.nolist {
+  list-style-type: none;
+}
+.author {
+  font-weight: 600;
+}
+.content {
+  font-size: 12px;
+}

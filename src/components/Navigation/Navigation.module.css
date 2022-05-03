@@ -1,0 +1,12 @@
+.link {
+  margin-right: 10px;
+  text-decoration: none;
+  outline: none;
+  color: black;
+  font-weight: 600;
+}
+
+.activated {
+  composes: link;
+  color: red;
+}
