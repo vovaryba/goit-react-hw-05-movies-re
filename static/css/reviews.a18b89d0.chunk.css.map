@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/reviews.a18b89d0.chunk.css","mappings":"AAAA,uBACE,oBACF,CACA,uBACE,eACF,CACA,wBACE,cACF","sources":["pages/Reviews/Reviews.module.css"],"sourcesContent":[".nolist {\r\n  list-style-type: none;\r\n}\r\n.author {\r\n  font-weight: 600;\r\n}\r\n.content {\r\n  font-size: 12px;\r\n}\r\n"],"names":[],"sourceRoot":""}
